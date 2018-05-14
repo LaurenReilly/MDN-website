@@ -38,3 +38,8 @@ p, ul, li {
     text-shadow: 1px 1px 1px rgb(153, 204, 0);
 
 }
+
+.navigation {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
